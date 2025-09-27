@@ -1,0 +1,12 @@
+Nombre: Ignacio Lizana Aresti  Rol: 201673542-9
+
+Instrucciones de compilacion:
+1)Abrir terminal en la ubicación del programa.
+2)Ejecutar comando "make HC".
+3)El programa se compilará y ejecutará automáticamente.
+
+El programa usa por defecto el archivo "condig1.txt", para cambiarlo se debe abrir "main.cpp" con un editor de texto y cambiar solo el número que acompaña a config en la línea 7.
+
+Especificaciones:
+Programa creado con C++, probado con gcc version 9.2.1 20191008 (Ubuntu 9.2.1-9ubuntu2) 
+                                
